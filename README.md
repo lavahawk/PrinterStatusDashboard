@@ -22,9 +22,9 @@ and reformating it into an easy to view and nice dashboard hosted on my github p
 - **Google-Apps-Script.js** - Backend script for Google Sheets integration if you wanted to do API calls
 - **Printer Status Update - Dashboard.csv** - Sample CSV data
 
-## Setup Options
+## Setup Options (Ignore all this unless you want to implement this differently)
 
-### Option 1: Google Apps Script (Recommended for Live Updates)
+### Option 1: Google Apps Script (I didn't actually do this)
 
 This method allows your dashboard to fetch live data directly from your Google Sheet without CORS issues.
 
